@@ -41,7 +41,7 @@ A two or four week long development increment with its own defined goals and out
 #H4 Sprint Planning
 The Scrum Master is responsible for moderating, coordinating and executing the Sprint Planning meeting which happens once every sprint in preparation for the next sprint. It requires up to four hours for a 2 week sprint, or 8 for a one month sprint.
 #H5 Questions addressed are:
-- What needs to br and can be delivered in the Sprint Increment?
+- What needs to be and can be delivered in the Sprint Increment?
 - How will the work needed for the execution of Sprint be achieved?
 #H5 The Inputs to the meeting are:
 - The Product Backlog
